@@ -1,0 +1,19 @@
+name: zero_to_ai_environment
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - xgboost
+  - gensim
+  - transformers
+  - sentence-transformers
+  - seaborn
+  - pandas
+  - ucimlrepo
+  - matplotlib
+  - pmdarima
+  - pytest
+  - jupyter
+  - ipykernel
