@@ -9,7 +9,7 @@ To configure your python environment properly, please run the following command 
 For Mac you can simply run the following line of code in the terminal
 ```sh create_env_and_download.sh```
 
-For Windows open Anaconda Command Prompt and run the following three lines of code
+For Windows open Anaconda Prompt and run the following three lines of code
 ```
 conda env create -f environment.yml
 conda activate zero_to_ai_environment
