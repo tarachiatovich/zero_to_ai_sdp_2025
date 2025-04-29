@@ -18,3 +18,7 @@ pytest
 ```
 
 If there are errors 
+
+# Installing Git
+
+We also recommend installing Git. Instructions are on [this page](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git). Simply look for the directions for your computer.
