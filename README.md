@@ -17,7 +17,10 @@ conda activate zero_to_ai_environment
 pytest
 ```
 
-If there are errors 
+Finally we wil require a couple of commands to be run to get some of the data we need for the AI applications. If you would like to run the emebdding ntoebook you will need to run 
+
+```python -m spacy download en_core_web_lg```
+
 
 # Installing Git
 
