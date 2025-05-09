@@ -53,3 +53,7 @@ To install packages globally, use the steps below, which work for both a Mac and
 4. Run each cell using the Shift + Enter keyboard shortcut.
 
 You should now be set to work with the notebooks that have our worked examples!
+
+## Slides from presentation
+
+Link to our slides [here](https://docs.google.com/presentation/d/1Hihz-Or_ZHC_XQzD0fMU1sYbkmKwW7UUMljRyk92h-M/edit?usp=sharing).
