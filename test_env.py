@@ -10,6 +10,9 @@ import sklearn
 import skforecast
 import ucimlrepo 
 import statsmodels
+import transformers
+import torch
+import spacy
 
 def test_python_version():
     assert sys.version_info[:2] == (3, 11), "Python version must be exactly 3.11"
